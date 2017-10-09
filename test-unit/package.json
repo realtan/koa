@@ -10,7 +10,7 @@
   "keywords": [
     "koajs"
   ],
-  "author": "chenshenhai",
+  "author": "zengtan",
   "license": "MIT",
   "dependencies": {
     "koa": "^2.0.1"

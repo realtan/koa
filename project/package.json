@@ -12,7 +12,7 @@
     "start_server": "node ./server/app.js",
     "start": "npm run start_static & npm run start_server"
   },
-  "author": "chenshenhai",
+  "author": "zengtan",
   "license": "MIT",
   "dependencies": {
     "antd": "^2.7.2",

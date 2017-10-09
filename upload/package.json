@@ -9,7 +9,7 @@
   "keywords": [
     "koajs"
   ],
-  "author": "chenshenhai",
+  "author": "zengtan",
   "license": "MIT",
   "dependencies": {
     "busboy": "^0.2.14",
